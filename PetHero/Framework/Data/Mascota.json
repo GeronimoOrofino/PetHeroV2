@@ -1,0 +1,52 @@
+[
+    {
+        "nombre": "Fatiga",
+        "raza": "Desconocido",
+        "tama\u00f1o": "Mediano",
+        "observaciones": "  es medio vago",
+        "urlimagen": "20190317_012353.jpg",
+        "urlvacunacion": "20190317_012356.jpg",
+        "urlvideo": "88642f5f-be8e-4ecd-9081-92eab0082c45.jpg",
+        "DNI": "951357"
+    },
+    {
+        "nombre": "Coloso",
+        "raza": "Caniche",
+        "tama\u00f1o": "Chico",
+        "observaciones": "si te lo pones en la espalda cuenta como masajeador",
+        "urlimagen": "",
+        "urlvacunacion": "",
+        "urlvideo": "",
+        "DNI": "951357"
+    },
+    {
+        "nombre": "Frutilla",
+        "raza": "Grandanes",
+        "tama\u00f1o": "Grande",
+        "observaciones": "  Hace popo de colores",
+        "urlimagen": "",
+        "urlvacunacion": "",
+        "urlvideo": "",
+        "DNI": "0147"
+    },
+    {
+        "nombre": "Polinesio",
+        "raza": "Golden Retriever",
+        "tama\u00f1o": "Mediano",
+        "observaciones": "  Es medio torpe, sali\u00f3 parecido a mi ex.",
+        "urlimagen": "",
+        "urlvacunacion": "",
+        "urlvideo": "",
+        "DNI": "0147"
+    },
+    {
+        "nombre": "Pepe",
+        "raza": "Golden Retriever",
+        "tama\u00f1o": "Mediano",
+        "observaciones": "  Es hiperactivo",
+        "urlimagen": "41b935ce-c58b-4c38-8c0e-f7df27e67bc2.jpg",
+        "urlvacunacion": "41b935ce-c58b-4c38-8c0e-f7df27e67bc2.jpg",
+        "urlvideo": "41b935ce-c58b-4c38-8c0e-f7df27e67bc2.jpg",
+        "DNI": "1111"
+    }
+]

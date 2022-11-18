@@ -1,0 +1,28 @@
+[
+    {
+        "Duenio": "0147",
+        "Mascota": "Polinesio",
+        "Guardian": "123321",
+        "aceptada": null,
+        "arraydedates": [
+            "2022-11-10",
+            "2022-11-11",
+            "2022-11-12"
+        ],
+        "id": 1,
+        "review": null
+    },
+    {
+        "Duenio": "951357",
+        "Mascota": "Coloso",
+        "Guardian": "122333",
+        "aceptada": "true",
+        "arraydedates": [
+            "2022-12-02",
+            "2022-12-03",
+            "2022-12-04"
+        ],
+        "id": 2,
+        "review": null
+    }
+]

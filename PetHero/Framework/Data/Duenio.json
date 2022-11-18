@@ -1,0 +1,23 @@
+[
+    {
+        "nombre": "Mononoke",
+        "direccion": "Bosque encantado",
+        "DNI": "0147",
+        "telefono": "444422",
+        "mail": "geroorofino@gmail.com"
+    },
+    {
+        "nombre": "Moni argento",
+        "direccion": "Colon1212",
+        "DNI": "951357",
+        "telefono": "2234444333",
+        "mail": "lamonicucha@gmail.com"
+    },
+    {
+        "nombre": "Pablo",
+        "direccion": "aaaa",
+        "DNI": "1111",
+        "telefono": "02235",
+        "mail": "pablo@gmail.com"
+    }
+]
